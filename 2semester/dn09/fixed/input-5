@@ -1,0 +1,32 @@
+<ocene>
+	<ocena>
+		<vpisnaStevilka>11111111</vpisnaStevilka>
+		<nalogaId>1</nalogaId>
+		<vrednost>1</vrednost>
+	</ocena>
+	<ocena>
+		<vpisnaStevilka>22222222</vpisnaStevilka>
+		<nalogaId>2</nalogaId>
+		<vrednost>2</vrednost>
+	</ocena>
+	<ocena>
+		<vpisnaStevilka>22222222</vpisnaStevilka>
+		<nalogaId>3</nalogaId>
+		<vrednost>3</vrednost>
+	</ocena>
+	<ocena>
+		<vpisnaStevilka>33333333</vpisnaStevilka>
+		<nalogaId></nalogaId>
+		<vrednost>3</vrednost>
+	</ocena>
+	<ocena>
+		<vpisnaStevilka>33333333</vpisnaStevilka>
+		<nalogaId>4</nalogaId>
+		<vrednost>4</vrednost>
+	</ocena>
+	<ocena>
+		<vpisnaStevilka>33333333</vpisnaStevilka>
+		<nalogaId>5</nalogaId>
+		<vrednost>5</vrednost>
+	</ocena>
+</ocene>

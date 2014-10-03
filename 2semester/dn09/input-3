@@ -1,0 +1,9 @@
+<ocene>
+<ocena><nalogaId>108</nalogaId><vrednost>5</vrednost><vpisnaStevilka>12345678</vpisnaStevilka></ocena>
+<ocena><vrednost>5</vrednost><vpisnaStevilka>12345678</vpisnaStevilka><nalogaId>27</nalogaId></ocena>
+<ocena><vpisnaStevilka>12345678</vpisnaStevilka><nalogaId>4</nalogaId><vrednost>3</vrednost></ocena>
+<ocena><nalogaId>3</nalogaId><vrednost>4</vrednost><vpisnaStevilka>12345678</vpisnaStevilka></ocena>
+<ocena><nalogaId>2</nalogaId><vpisnaStevilka>87654321</vpisnaStevilka><vrednost>5</vrednost></ocena>
+<ocena><vrednost>5</vrednost><vpisnaStevilka>12123123</vpisnaStevilka><nalogaId>2</nalogaId></ocena>
+<ocena><vpisnaStevilka>12123123</vpisnaStevilka><nalogaId>2</nalogaId><vrednost>3</vrednost></ocena>
+</ocene>

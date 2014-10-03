@@ -1,0 +1,22 @@
+<ocene>
+	<ocena>
+		<vpisnaStevilka>12345678</vpisnaStevilka>
+		<nalogaId>4</nalogaId>
+		<vrednost>5</vrednost>
+	</ocena>
+	<ocena>
+		<vpisnaStevilka>87654321</vpisnaStevilka>
+		<nalogaId>2</nalogaId>
+		<vrednost>3</vrednost>
+	</ocena>
+	<ocena>
+		<vpisnaStevilka>87654321</vpisnaStevilka>
+		<nalogaId>2</nalogaId>
+		<vrednost>5</vrednost>
+	</ocena>
+	<ocena>
+		<vpisnaStevilka>12345678</vpisnaStevilka>
+		<nalogaId>2</nalogaId>
+		<vrednost>3</vrednost>
+	</ocena>
+</ocene>
